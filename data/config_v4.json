@@ -9,5 +9,6 @@
   "thinking_duration_ms": 400,
   "countdown_sec": 3,
   "sound_enabled": true,
-  "auto_save_interval_sec": 5
+  "auto_save_interval_sec": 5,
+  "size_mode": 0
 }

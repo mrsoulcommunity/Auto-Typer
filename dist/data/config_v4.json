@@ -1,0 +1,14 @@
+{
+  "base_delay_ms": 85,
+  "randomness_ms": 20,
+  "typing_mode": "Human",
+  "line_break_delay_ms": 200,
+  "punctuation_delay_ms": 150,
+  "word_delay_ms": 80,
+  "thinking_chance": 0.02,
+  "thinking_duration_ms": 400,
+  "countdown_sec": 3,
+  "sound_enabled": true,
+  "auto_save_interval_sec": 5,
+  "size_mode": 0
+}
